@@ -4,7 +4,7 @@ import './calculator.css'
 
 const Calculator = (props) => {
     return(
-        <h2>Hello World!!!</h2>
+        <h2 class="text-4xl">Hello World!!!</h2>
     );
 };
 
